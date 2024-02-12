@@ -1,9 +1,9 @@
-name:python-linting-code
+name:python-lint
 on:push
 
 
 jobs:
-  python-linting-code:
+  python-lint:
     runs-on: ubuntu-latest
 
     steps:
