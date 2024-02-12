@@ -8,6 +8,6 @@ jobs:
 
     steps:
         - name: Super-Linter
-          uses: super-linter/super-linter@v6.0.0
+          uses: github/super-linter@v6.0.0
             
 
